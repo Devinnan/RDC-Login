@@ -1,4 +1,10 @@
-### 2016研发暑假博客开发
+## 2016研发暑假博客开发
+
+#### 预览地址
+https://devinnan.github.io/RDC-Login/
+
+#### 说明
+
 - 该页面模仿知乎登录页做canvas开发  
     - 减少了圆圈线的连接，可以独立使用。  
     - 源码在./js/myCanvas.js中。  
@@ -9,4 +15,4 @@
 - 参考了知乎垂直居中的做法
 - 整体兼容到ie7
 
-预览地址：https://devinnan.github.io/RDC-Login/
+
