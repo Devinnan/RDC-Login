@@ -1,7 +1,7 @@
 ## 2016研发暑假博客开发
 
 #### 预览地址
-https://devinnan.github.io/RDC-Login/
+https://devinnn.github.io/RDC-Login/
 
 #### 说明
 
